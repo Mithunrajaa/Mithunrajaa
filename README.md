@@ -36,7 +36,7 @@ A detailed project repository documenting the design process, simulations, hardw
 
 **B.Tech. Electrical and Electronics Engineering**
 
-Bachelor's thesis: **Design and Development of an Isolated DC-DC Converter**
+Bachelor's thesis: **Designed and implemented a 100 W isolated DC-DC converter for 20 V → 80 V conversion, including analytical design, MATLAB/Simulink modelling, PCB development, and hardware validation**
 
 ## 📚 Currently Developing
 
